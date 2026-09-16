@@ -1,12 +1,12 @@
-# 📊 Data-Driven Product Management: Conducting a Market Analysis
+#  Data-Driven Product Management: Conducting a Market Analysis
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project explores global and national-level demand for digital fitness services by analyzing Google Trends data. As a product manager for a fitness studio, the goal was to identify trends, user interest, and growth opportunities for digital products like home workout platforms, gym services, and hybrid solutions.
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 All CSV files are located in the `data/` directory.
 
