@@ -40,16 +40,16 @@ All CSV files are located in the `data/` directory.
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-### 🏆 Global Peak of "Workout" Searches
-- 📅 **2020** saw the highest global search interest for the keyword **'workout'**, coinciding with the COVID-19 pandemic and global lockdowns.
+###  Global Peak of "Workout" Searches
+-  **2020** saw the highest global search interest for the keyword **'workout'**, coinciding with the COVID-19 pandemic and global lockdowns.
 
-### 📈 Keyword Trend Analysis
-- ✅ The **most popular keyword during the COVID-19 pandemic (2020–2023)** was:  
+###  Keyword Trend Analysis
+-  The **most popular keyword during the COVID-19 pandemic (2020–2023)** was:  
   **`gym_workout_worldwide`**
   
-- ✅ The **most popular keyword now** (latest recorded month):  
+-  The **most popular keyword now** (latest recorded month):  
   **`gym_workout_worldwide`**
 
 ### 🌍 Country-wise Demand
