@@ -52,17 +52,17 @@ All CSV files are located in the `data/` directory.
 -  The **most popular keyword now** (latest recorded month):  
   **`gym_workout_worldwide`**
 
-### 🌍 Country-wise Demand
+###  Country-wise Demand
 
 #### ➤ **Among United States, Australia, and Japan:**
-- 🥇 **United States** has the highest interest in general **'workout'** searches.
+-  **United States** has the highest interest in general **'workout'** searches.
 
 #### ➤ **Between Philippines and Malaysia:**
-- 🥇 **Philippines** shows a higher interest in **'home workouts'** compared to Malaysia.
+-  **Philippines** shows a higher interest in **'home workouts'** compared to Malaysia.
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 - Applied data-driven decision making for product strategy.
 - Analyzed time-series search trends using Google Trends data.
