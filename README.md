@@ -72,9 +72,9 @@ All CSV files are located in the `data/` directory.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
-### 🛠️ Requirements
+###  Requirements
 
 Install required Python libraries:
 ```bash
